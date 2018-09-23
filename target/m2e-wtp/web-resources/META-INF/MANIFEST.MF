@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Heroku-SpringBoot-Test1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Neo
+Implementation-Vendor-Id: io.spring.aula.natan
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/Heroku-Sprin
+ gBoot-Test1/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
