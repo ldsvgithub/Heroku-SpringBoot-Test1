@@ -34,8 +34,7 @@ public class CargaInicial implements ApplicationListener<ContextRefreshedEvent> 
 
     @Override
     public void onApplicationEvent(ContextRefreshedEvent e) {
-
-    	/*
+/*
         List<Perfil> perfis = perfilRepository.findAll();
 
         if (perfis.isEmpty()) {
@@ -51,8 +50,8 @@ public class CargaInicial implements ApplicationListener<ContextRefreshedEvent> 
             usuarioRepository.save(new Usuario("ADMIN", "admin", "123", novosPerfis));
 
         }
-        */
-
+*/
     }
+    
 
 }
